@@ -43,7 +43,7 @@ Alternatively, you can `wget` the zipped file via the command line with:
 
 The index.html files that are created with the `sitedirs.sh` script are generated from base64 encoded strings to preserve the integrity of the final output. The shell script performs the decoding automatically and outputs the following resultant HTML code into every index.html file:
 
-```
+```<!--
 <!DOCTYPE html>
 <html lang="en">
 
@@ -64,7 +64,7 @@ The index.html files that are created with the `sitedirs.sh` script are generate
 </body>
 
 </html>
-```
+-->```
 
 The encoded variable assignments in `sitedirs.sh` that are used to generate the above HTML are as follows:
 
