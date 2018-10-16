@@ -4,6 +4,8 @@
 
 Github Repository: [github.com/resonova/sitedirs](https://github.com/resonova/sitedirs)
 
+View Live README Page: [README.md](https://resonova.github.io/sitedirs)
+
 Example 'go-back' Page: [sitedirs/a/index.html](https://resonova.github.io/sitedirs/docs/sitedirs/a/index.html)
 
 Download _sitedirs.zip_ Directories and Files (.zip): [sitedirs.zip](https://raw.githubusercontent.com/resonova/sitedirs/master/sitedirs.zip)
