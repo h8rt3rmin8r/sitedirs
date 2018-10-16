@@ -1,8 +1,13 @@
 # sitedirs.sh
 
+## Repository Resource Links
+
 Github Repository: [github.com/resonova/sitedirs](https://github.com/resonova/sitedirs)
+
 Example 'go-back' Page: [resonova.github.io/sitedirs/a/index.html](https://resonova.github.io/sitedirs/a/index.html)
+
 Download _sitedirs_ Directories and Files (.zip): []()
+
 Download _sitedirs.sh_ Bash Script (.sh): []()
 
 ## Introduction
