@@ -45,7 +45,6 @@ The index.html files that are created with the `sitedirs.sh` script are generate
 
 <code>
 
-```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -63,7 +62,6 @@ The index.html files that are created with the `sitedirs.sh` script are generate
     </script>
 </body>
 </html>
-```
 
 </code>
 
